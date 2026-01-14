@@ -1,1 +1,2 @@
 # Basic-Bank-Form-Using-python
+Here i have used different human built function as well as i also try to use loops and control statement which is cover tupple, list, dictionary, string and set in basically this banking form is made with the basic uses of the python programming language.
